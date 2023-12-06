@@ -8,16 +8,6 @@ This application is configured for Service Discovery and Configuration with the 
 ## Project Structure
 tes configuration files for tools like git, prettier, eslint, husky, and others that are well known and you can find references in the web.
 
-`/src/*` structure follows default Java structure.
-
-- `.yo-rc.json` 
-## Development
-
-To start your application in the dev profile, run:
-
-```
-./mvnw
-```
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
